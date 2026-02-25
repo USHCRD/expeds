@@ -5,9 +5,7 @@ export default function Home() {
       <p>Your deployment is running.</p>
       <p>
         View the supermajority bills at{" "}
-        /supermajority
-          /supermajority
-        </a>.
+        /supermajority/supermajority</a>.
       </p>
     </main>
   );
